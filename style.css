@@ -3,8 +3,7 @@
     margin: 0;
     padding: 0;
     font-weight: 300;
-    box-sizing: border-box;
-    
+    box-sizing: border-box;   
 }
 
 html, 
@@ -12,16 +11,12 @@ body
 {
     font-family:'Lato', 'Arial', sans-serif;
     color: #727272;
-    font-size:20px;
-    
-    
+    font-size:20px;      
 }
 
 h1 
 {
-    font-size:1000%;
-    
-    
+    font-size:1000%;   
 }
 
 header
@@ -30,8 +25,7 @@ header
     background-size: cover;
     background-position: center;
     height: 100vh;
-    background-attachment: fixed;
-    
+    background-attachment: fixed;   
 }
 
 .text-box
@@ -58,10 +52,12 @@ header
     text-align: center;
     transition: background-color 0.3s;
 }
+
 .btn:hover
 {
     background-color: #692a00;
 }
+
 .logo
 {
     float:right;
