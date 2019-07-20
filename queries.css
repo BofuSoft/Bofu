@@ -16,7 +16,15 @@
     {
         width:1140px;
         top:60%;
-        left:65%;
+        left:50%;
     }
+    .strzalka
+{
+    float:right;
+    width:20%;
+    height: auto;
+    margin-top: 60px;
+    
+}
 }
     
